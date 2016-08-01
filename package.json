@@ -1,0 +1,25 @@
+{
+  "name": "dataapp",
+  "version": "0.0.1",
+  "description": "Task data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "jquery",
+    "rethinkdb",
+    "tasks"
+  ],
+  "author": "Michael Colon",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "express": "^4.14.0",
+    "handlebars": "^4.0.5",
+    "rethinkdb": "^2.3.2",
+    "rethinkdb-websocket-server": "^0.6.0",
+    "socket.io": "^1.4.8"
+  }
+}
