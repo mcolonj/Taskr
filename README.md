@@ -6,7 +6,10 @@ Written in JQuery, Express.js, Node.js, Socket.io, HTML, CSS.
 General purpose micro-app with the ability to add and manage tasks.
 
 ##Everything needed to run app is in package.json.
-Just download repo git clone:
+Just download repo:
+```
+git clone https://github.com/mcolonj/Taskr.git
+```
 
 ```
 npm install  
